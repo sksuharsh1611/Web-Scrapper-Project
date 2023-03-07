@@ -1,5 +1,10 @@
 body {
-  background-color: #91ced4;
+  
+    background-image: url('https://entrackr.com/storage/2020/03/flipkart-grocery-image-768x384.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+  
 }
 body * {
   box-sizing: border-box;
@@ -34,7 +39,7 @@ table {
   width: 100%;
 }
 table td, table th {
-  color: #2b686e;
+  color: #43adc8;
   padding: 10px;
 }
 table td {
@@ -111,7 +116,7 @@ table tr:nth-child(2n+1) {
     font-size: 2em;
     font-weight: 700;
     padding: 0;
-    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+    text-shadow: 2px 2px 0 rgba(210, 154, 154, 0.1);
   }
 
   img {
